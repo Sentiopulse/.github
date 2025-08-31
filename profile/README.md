@@ -8,5 +8,3 @@ Our ecosystem is composed of several independent services that work together to 
 - [classifier](https://github.com/Sentiopulse/classifier): The core AI engine for classifying market sentiment, topics, and trustworthiness from raw data.
 - [ingestion-engine](https://github.com/Sentiopulse/ingestion-engine): Data ingestion service for fetching real-time content from social media APIs.
 - [landing](https://github.com/Sentiopulse/landing): Static marketing and landing page to drive user sign-ups and engagement.
-
-Let me know if any further formatting or content changes are needed.
